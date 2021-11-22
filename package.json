@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/anas001989.lwc-kw9vshkc",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve ipLuD9B5Fobjh4cYw958 --open"
+  }
+}
